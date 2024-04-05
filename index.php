@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        echo 'Xin chào PHP';
+        echo 'Xin chào <b style="color: red;">PHP</b>';
     ?>
 </body>
 </html>
